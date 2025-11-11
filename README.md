@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project_individual_planning_report
+DSCI-100 project repository for individual planning report
